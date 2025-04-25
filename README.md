@@ -35,7 +35,7 @@
 ## **Установка**
 1. Склонируйте репозиторий:
    ```bash
-   git clone [https://github.com/hawk2012/gost-shred.git](https://github.com/hawk2012/gost-shred.git)
+   git clone https://github.com/hawk2012/gost-shred.git
    cd disk-cleaner
    ```
 2. Сделайте скрипт исполняемым:
