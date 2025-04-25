@@ -1,4 +1,6 @@
-# **Затирание диска по ГОСТ**
+# **Скрипт затирания по ГОСТ Р 50739-95 / ГОСТ П 50739-2016.**
+
+## Использовать только с LiveCD/LiveDVD!
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
