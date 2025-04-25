@@ -36,7 +36,7 @@
 1. Склонируйте репозиторий:
    ```bash
    git clone https://github.com/hawk2012/gost-shred.git
-   cd disk-cleaner
+   cd gost-shred
    ```
 2. Сделайте скрипт исполняемым:
    ```bash
