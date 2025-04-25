@@ -1,4 +1,4 @@
-# **Disk Cleaner Script**
+# **Затирание диска по ГОСТ**
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
