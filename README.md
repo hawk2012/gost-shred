@@ -1,4 +1,4 @@
-# **Скрипт затирания по ГОСТ Р 50739-95 / ГОСТ П 50739-2016.**
+# **Скрипт затирания по ГОСТ Р 50739-95 / ГОСТ П 50739-2016**
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
@@ -35,7 +35,7 @@
 ## **Установка**
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-repo/disk-cleaner.git
+   git clone [https://github.com/hawk2012/gost-shred.git](https://github.com/hawk2012/gost-shred.git)
    cd disk-cleaner
    ```
 2. Сделайте скрипт исполняемым:
